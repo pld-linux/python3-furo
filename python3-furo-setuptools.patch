@@ -9,12 +9,3 @@
  
  packages = \
  ['furo']
-@@ -28,7 +28,7 @@
- {'': 'src'}
- 
- install_requires = \
--['beautifulsoup4', 'sphinx ~= 3.0']
-+['beautifulsoup4', 'sphinx >= 3.0']
- 
- extras_require = \
- {'doc': ['myst-parser', 'sphinx-copybutton', 'sphinx-inline-tabs'],
