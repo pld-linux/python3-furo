@@ -2,7 +2,7 @@ Summary:	Clean customizable Sphinx documentation theme
 Summary(pl.UTF-8):	Czysty, konfigurowalny motyw dokumentacji Sphinksa
 Name:		python3-furo
 Version:	2021.6.18b36
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/furo/
