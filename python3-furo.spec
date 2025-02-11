@@ -13,6 +13,7 @@ Source0:	https://files.pythonhosted.org/packages/source/f/furo/furo-%{version}.t
 Source1:	https://src.fedoraproject.org/repo/pkgs/python-furo/furo-2024.08.06-vendor.tar.xz/sha512/4a4313b30aff8dcb12ca857064bf73a18e3287e1fdd9e5ca55b277519628b8401b287f48195271d09e88249c431d390f3710f10b82b498f0176c4c40a415bb39/furo-2024.08.06-vendor.tar.xz
 # Source1-md5:	685e508601d03c86281ea8fb65f1d844
 URL:		https://pypi.org/project/furo/
+BuildRequires:	npm
 BuildRequires:	python3-build
 BuildRequires:	python3-installer
 BuildRequires:	python3-modules >= 1:3.6
