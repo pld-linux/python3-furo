@@ -16,6 +16,7 @@ URL:		https://pypi.org/project/furo/
 BuildRequires:	python3-build
 BuildRequires:	python3-installer
 BuildRequires:	python3-modules >= 1:3.6
+BuildRequires:	python3-nodeenv
 BuildRequires:	python3-sphinx_theme_builder
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 2.044
